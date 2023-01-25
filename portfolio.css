@@ -171,7 +171,7 @@ section .title::after {
   display: flex;
   background: url("#") no-repeat center;
   height: 100vh;
-  color: black;
+  color: Blue;
   min-height: 500px;
   background-size: cover;
   background-attachment: fixed;
