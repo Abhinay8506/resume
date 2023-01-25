@@ -169,9 +169,9 @@ section .title::after {
 /* home section styling */
 .home {
   display: flex;
-  background: url("images/banner.jpg") no-repeat center;
+  background: url("#") no-repeat center;
   height: 100vh;
-  color: #fff;
+  color: yellow;
   min-height: 500px;
   background-size: cover;
   background-attachment: fixed;
@@ -186,6 +186,7 @@ section .title::after {
 }
 .home .home-content .text-1 {
   font-size: 27px;
+  
 }
 .home .home-content .text-2 {
   font-size: 75px;
